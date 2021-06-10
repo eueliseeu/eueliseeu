@@ -20,6 +20,8 @@ Obs -> I intend to change this as soon as possible.
 -🌍I really want to go to canada and have a good condition so that in the future I can help my family in Brazil and develop better as a programmer.
 
 And also having a little place that is not luxury, but what is necessary to sustain me and evolve in what I most need, which is to advance the world, making the most complicated and complex part for many, the programming area.
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hastedPy)](https://github.com/hastedPy)
 <!--
 **hastedPy/hastedPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
