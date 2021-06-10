@@ -25,8 +25,8 @@ And also having a little place that is not luxury, but what is necessary to sust
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliseuoficial02@gmail.com)](mailto:eliseuoficial02@gmail.com)
 
 
-<img alt="asianmancoder's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=asianmancoder&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
-<img alt="asianmancoder's github stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asianmancoder&layout=compact&theme=radical&hide_border=true&card_width=250"/>
+<img alt="asianmancoder's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=hastedPy&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
+<img alt="asianmancoder's github stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hastedPy&layout=compact&theme=radical&hide_border=true&card_width=250"/>
 
 <!--
 **hastedPy/hastedPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
