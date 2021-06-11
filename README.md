@@ -17,7 +17,7 @@ Also most of my time still can't change, I spend playing League of legends. Sorr
 
 ### What do I want to achieve?
 
--🌍I really want to go to canada and have a good condition so that in the future I can help my family in Brazil and develop better as a programmer.
+- 🌍I really want to go to canada and have a good condition so that in the future I can help my family in Brazil and develop better as a programmer.
 
 And also having a little place that is not luxury, but what is necessary to sustain me and evolve in what I most need, which is to advance the world, making the most complicated and complex part for many, the programming area.
 
