@@ -13,7 +13,7 @@ I really like the program to invent new and expressive things, especially in the
 
 Also most of my time still can't change, I spend playing League of legends. Sorry!
 
-Obs -> I intend to change this as soon as possible.
+- I intend to change this as soon as possible.
 
 ### What do I want to achieve?
 
