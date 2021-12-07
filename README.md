@@ -28,6 +28,23 @@ And also having a little place that is not luxury, but what is necessary to sust
 <img alt="asianmancoder's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=hastedPy&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
 <img alt="asianmancoder's github stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hastedPy&layout=compact&theme=radical&hide_border=true&card_width=250"/>
 
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="30" src="https://img.icons8.com/officel/40/000000/delphi-ide.png">   
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">     
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+                                                                                                                                          
+</div>
+ 
+  ##
+ 
+ <div> 
+
+  ![Snake animation](https://github.com/willhubner/willhubner/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+
 <!--
 **hastedPy/hastedPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
