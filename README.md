@@ -30,7 +30,7 @@ And also having a little place that is not luxury, but what is necessary to sust
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">     
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.picpng.com/logo/language-logo-python-44976.png">     
+  <img align="center" height="40" width="40" src="https://cdn.picpng.com/logo/language-logo-python-44976.png">     
                                                                                                                                        
 </div>
 
