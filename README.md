@@ -2,10 +2,9 @@
 
 👋 He called me **Eliseu** and I'm introducing myself as a Developer and studying as a Systems Development Analysis.
 
-- 🧳Where I live ? Brazil 
+- 🧳Where I live ? Brazil Sinop-MT
 - 💼 My profession? Currently Programmer and Graphic Designer
 - 🎓 Systems Development Analysis
-- 😇 are you years old? eighteen
 
 ## Your free time?
 
