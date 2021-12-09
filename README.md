@@ -4,7 +4,7 @@
 
 - 🧳Where I live ? Brazil 
 - 💼 My profession? Currently Programmer and Graphic Designer
-- 🎓 Are you going to college? Yes Systems Development Analysis
+- 🎓 Systems Development Analysis
 - 😇 are you years old? eighteen
 
 ## Your free time?
