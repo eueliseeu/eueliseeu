@@ -20,7 +20,7 @@ Also most of my time still can't change, I spend playing League of legends. Sorr
 
 And also having a little place that is not luxury, but what is necessary to sustain me and evolve in what I most need, which is to advance the world, making the most complicated and complex part for many, the programming area.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hastedPy)](https://github.com/hastedPy)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Eorish)](https://github.com/Eorish)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliseuoficial02@gmail.com)](mailto:eliseuoficial02@gmail.com)
 
 
