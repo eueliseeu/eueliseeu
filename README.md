@@ -1,22 +1,22 @@
-### Hello to all programmers and developers in the Github world
+# Olá Prazer, Eliseu P. Silva
 
-👋 He called me **Eliseu** and I'm introducing myself as a Developer and studying as a Systems Development Analysis.
+👋Olá me chamou de Eliseu e estou me apresentando como Desenvolvedor e estudante como Analista de Desenvolvimento de Sistemas.
 
-- 🧳Where I live ? Brazil Sinop-MT
-- 💼 My profession? Currently Programmer and Graphic Designer
-- 🎓 Systems Development Analysis
+- 🧳Onde eu moro Atualmente ? Brasil Sinop-MT
+- 💼 Minha profissão ? Atualmente programador e designer gráfico
+- 🎓 Análise de Desenvolvimento de Sistemas
 
-## Your free time?
+## Seu tempo livre?
 
-I really like the program to invent new and expressive things, especially in the Graphic Designer part, I like to travel a lot in arts and try different things.
+Gosto muito do programa para inventar coisas novas e expressivas, principalmente na parte de Designer Gráfico, gosto de viajar muito nas artes e experimentar coisas diferentes.
 
-- I intend to change this as soon as possible.
+- E sempre acomulando experiência na minha área de programação.
 
-### What do I want to achieve?
+### O que eu quero alcançar?
 
-- 🌍I really want to go to canada and have a good condition so that in the future I can help my family in Brazil and develop better as a programmer.
+- 🌍Eu quero muito ir para o Canadá e ter uma boa condição para que no futuro eu possa ajudar minha família no Brasil e me desenvolver melhor como programador.
 
-And also having a little place that is not luxury, but what is necessary to sustain me and evolve in what I most need, which is to advance the world, making the most complicated and complex part for many, the programming area.
+E também ter um lugarzinho que não é luxo, mas o que é necessário para me sustentar e evoluir no que eu mais preciso, que é avançar no mundo, fazendo a parte mais complicada e complexa para muitos, a área de programação.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Eorish)](https://github.com/Eorish)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliseuoficial02@gmail.com)](mailto:eliseuoficial02@gmail.com)
