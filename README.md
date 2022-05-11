@@ -4,7 +4,7 @@
 <br>
 - 💻 Estudando na Faculdade UniFasipe - ADS
 
-## Alguns projetos meus 
+### Alguns projetos meus 
 
 - Sublime em Português [Download](https://github.com/Eorish/SublimeText-PresencePTBR)
 
@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-# Contact
+## Contato
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Eorish)](https://github.com/Eorish)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliseuoficial02@gmail.com)](mailto:eliseuoficial02@gmail.com)
