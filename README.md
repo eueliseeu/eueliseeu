@@ -1,8 +1,20 @@
 # Olá Prazer, Eliseu P. Silva!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eorish&color=yellow" alt="Profile views" /> </p>
-👋Olá me chamou de Eliseu e estou me apresentando como Desenvolvedor e estudante como Analista de Desenvolvimento de Sistemas.
+- ⚖ Tornando um Programador
+<br>
+- 💻 Estudando na Faculdade UniFasipe - ADS
 
-## 🛠 &nbsp;Linguagens que Programo
+## Alguns projetos meus 
+
+- Sublime em Português [Download](https://github.com/Eorish/SublimeText-PresencePTBR)
+
+- Aplicação feita em Electron.js [Download](https://github.com/Eorish/AppElectron.js)
+
+- Cloud Dev [Download](https://github.com/Eorish/CloudDev). Era um Projeto, para ser um Google Programing no Discord.
+
+## &nbsp;Linguagens que tenho Conhecimento
+
+- Não posso falar que as conheço, mais posso te dar a certeza que as domino.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -15,7 +27,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Eorish)](https://github.com/Eorish)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliseuoficial02@gmail.com)](mailto:eliseuoficial02@gmail.com)
 
-
+## My DateBase
+- Ou meu banco de dados, de projetos subidos no github.
 <img alt="asianmancoder's github stats" align="left" style="background:black" src="https://github-readme-stats.vercel.app/api?username=Eorish&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
 <img alt="asianmancoder's github stats" align="left" style="background:black" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eorish&layout=compact&theme=radical&hide_border=true&card_width=250"/>
 
