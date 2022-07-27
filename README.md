@@ -10,7 +10,7 @@
 
 - Aplicação feita em Electron.js [Download](https://github.com/Eorish/AppElectron.js)
 
-- Cloud Dev [Download](https://github.com/Eorish/CloudDev). Era um Projeto, para ser um Google Programing no Discord.
+- Cloud Developer [Download](https://github.com/Eorish/CloudDev). Era um Projeto, para ser um Google Programing no Discord.
 
 ## &nbsp;Linguagens que tenho Conhecimento
 
