@@ -4,7 +4,7 @@
 <br>
 - 💻 Estudando na Faculdade UniFasipe - ADS
 
-### Alguns projetos meus 
+### Alguns projetos
 
 - Sublime em Português [Download](https://github.com/Eorish/SublimeText-PresencePTBR)
 
