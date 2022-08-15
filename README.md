@@ -4,6 +4,11 @@
 <br>
 - 💻 Estudando na Faculdade UniFasipe - ADS
 
+## Desenvolvedor de Script
+
+- GTA V, GTA San
+- Modelador 3D 
+
 ### Alguns projetos
 
 - Sublime em Português [Download](https://github.com/Eorish/SublimeText-PresencePTBR)
