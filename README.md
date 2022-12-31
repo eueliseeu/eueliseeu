@@ -1,8 +1,5 @@
 # Olá Prazer, Eliseu P. Silva!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eorish&color=yellow" alt="Profile views" /> </p>
-
- 
-- Ou meu banco de dados, de projetos subidos no github.
  
 <img alt="asianmancoder's github stats" align="left" style="background:black" src="https://github-readme-stats.vercel.app/api?username=Eorish&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
 <img alt="asianmancoder's github stats" align="left" style="background:black" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eorish&layout=compact&theme=radical&hide_border=true&card_width=250"/>
