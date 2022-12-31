@@ -1,23 +1,9 @@
-# Olá Prazer, Eliseu P. Silva!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eorish&color=yellow" alt="Profile views" /> </p>
- 
-<img alt="asianmancoder's github stats" align="left" style="background:black" src="https://github-readme-stats.vercel.app/api?username=Eorish&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
-<img alt="asianmancoder's github stats" align="left" style="background:black" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eorish&layout=compact&theme=radical&hide_border=true&card_width=250"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23F516&height=120&section=header"/>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Eorish&show_icons=true&count_private=true&hide_border=true&title_color=23F516&icon_color=23F516&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eorish&layout=compact&hide_border=true&title_color=23F516&text_color=23F516&bg_color=0d1117" />
+  
+</div>
 
-
-
-<!--
-**hastedPy/hastedPy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23F516&height=120&section=footer"/>
