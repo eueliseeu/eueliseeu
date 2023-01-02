@@ -14,7 +14,7 @@ Hello, sou programador desde 2016 e só agora veio me profissionalizar ou melhor
 </h6>
 <h5 style="left=20%" align="center" >Conhecimentos </h5>
 <h6 style="left=20%" align="center" >
-JavaScript • Python • React Native • TypeScript • Lua • Java
+JavaScript • Python • React Native • TypeScript • Lua • Java • Html • Css • PHP 
   </h6>
   <h5 style="left=20%" align="center" >Desenvolvedor </h5>
 <h6 style="left=20%" align="center" >
