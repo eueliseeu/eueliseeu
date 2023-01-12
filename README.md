@@ -3,9 +3,6 @@
 <h6 align="center">Programador | Acadêmico </h6>
 <div align="center">  
 
-<br>
-<br>
-
 <h5 style="left=20%" align="center" >Sou Programador Junior </h5>
 <h6 style="left=20%" align="center" >
 Hello, sou programador desde 2016 e só agora veio me profissionalizar ou melhor, expandir meu conhecimento na área de programação. 
