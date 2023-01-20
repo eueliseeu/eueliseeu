@@ -14,7 +14,7 @@ Sou programador desde 2016 e só agora veio me profissionalizar ou melhor, expan
    <details>
  <summary><h5 style="left=20%" align="center" >Conhecimentos </h5> </summary>
 <h6 style="left=20%" align="center" >
-JavaScript • Python • React Native • TypeScript • Lua • Java • Html • Css • PHP 
+JavaScript • Python • React Native • TypeScript • Lua • Java • PHP 
   </h6>
    </details>
 
