@@ -17,12 +17,6 @@ Sou programador desde 2016 e só agora veio me profissionalizar ou melhor, expan
 JavaScript • Python • React Native • TypeScript • Lua • Java • PHP 
   </h6>
    </details>
-
-   <details>
- <summary><h5 style="left=20%" align="center" >Gráfico de Contribuições </h5> </summary>
-      
-      </details>
-   
       
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode"/>
    
