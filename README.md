@@ -21,7 +21,6 @@ JavaScript • Python • React Native • TypeScript • Lua • Java • PHP
    <details>
  <summary><h5 style="left=20%" align="center" >Gráfico de Contribuições </h5> </summary>
       
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EuEliseeu&theme=github-compact)]
       </details>
    
       
