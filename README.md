@@ -14,7 +14,7 @@ Sou programador desde 2016 e só agora veio me profissionalizar ou melhor, expan
    <details>
  <summary><h5 style="left=20%" align="center" >Conhecimentos </h5> </summary>
 <h6 style="left=20%" align="center" >
-JavaScript • Python • React Native • TypeScript • Lua • Java • PHP 
+Tenho conhecimento em várias linguagens de programação, como Java (JS), Python (PY) e JavaScript (JS), também com conhecimento em ferramentas Microsoft (MS), além do conhecimento das ferramentas Adobe (AD).
   </h6>
    </details>
       
