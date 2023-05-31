@@ -17,7 +17,7 @@ Sou programador desde 2016 e só agora veio me profissionalizar ou melhor, expan
 Tenho conhecimento em várias linguagens de programação, como Java (JS), Python (PY) e JavaScript (JS), também com conhecimento em ferramentas Microsoft (MS), além do conhecimento das ferramentas Adobe (AD).
   </h6>
    </details>
-      
+      <br> <br> <br>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode"/>
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23F516&height=120&section=footer"/>
