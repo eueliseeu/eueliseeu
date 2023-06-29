@@ -1,6 +1,5 @@
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23F516&height=120&section=header"/>
 <h3 align="center">Olá, me chamo Eliseu</h3>
 <h6 align="center">Programador | Acadêmico </h6>
 <div align="center">  
@@ -20,4 +19,3 @@ Tenho conhecimento em várias linguagens de programação, como Java (JA), Pytho
       <br> <br> <br>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode"/>
    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23F516&height=120&section=footer"/>
