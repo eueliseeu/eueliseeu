@@ -1,21 +1,13 @@
 
+## Hello, my name Eliseu 🚀
 
-<h3 align="center">Olá, me chamo Eliseu</h3>
-<h6 align="center">Programador | Acadêmico </h6>
-<div align="center">  
+- Developer Full-Stack 
+- I am currently a Project Manager.
+- I have a degree in Information Technology.
 
-<h5 style="left=20%" align="center" >Sou Programador Junior </h5>
-<h6 style="left=20%" align="center" >
-Sou programador desde 2016 e só agora veio me profissionalizar ou melhor, expandir meu conhecimento na área de programação. 
-   
-</h6>
-  
-   <details>
- <summary><h5 style="left=20%" align="center" >Conhecimentos </h5> </summary>
-<h6 style="left=20%" align="center" >
-Tenho conhecimento em várias linguagens de programação, como Java (JA), Python (PY) e JavaScript (JS), também com conhecimento em ferramentas Microsoft (MS), além do conhecimento das ferramentas Adobe (AD).
-  </h6>
-   </details>
-      <br> <br> <br>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode"/>
-   
+I have knowledge in various programming languages such as Java (JS), Python (PY), and JavaScript (JS). I am also proficient in Microsoft (MS) tools and have experience with Adobe (AD) tools.
+
+## I am currently working on the current project.
+
+**EnigmaVerse:** A Discord assistant with a database connection, known as "ACode," is a project developed in early 2021 and is still going strong. It combines various utilities for the programming community.
+
