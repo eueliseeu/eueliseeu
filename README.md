@@ -1,13 +1,11 @@
+## Olá, sou Eliseu 🐼
 
-## Hello I'm Eliseu 🐼
+- Desenvolvedor Full-Stack
+- Atualmente sou Gerente de Projetos.
+- Possuo formação em Tecnologia da Informação.
 
-- Developer Full-Stack 
-- I am currently a Project Manager.
-- I have a degree in Information Technology.
+Tenho conhecimento em várias linguagens de programação, como Java (JS), Python (PY) e JavaScript (JS). Também tenho proficiência nas ferramentas da Microsoft (MS) e experiência com as ferramentas da Adobe (AD).
 
-I have knowledge in various programming languages such as Java (JS), Python (PY), and JavaScript (JS). I am also proficient in Microsoft (MS) tools and have experience with Adobe (AD) tools.
+Atualmente estou trabalhando no seguinte projeto.
 
-## I am currently working on the current project.
-
-**EnigmaVerse:** A Discord assistant with a database connection, known as "ACode," is a project developed in early 2021 and is still going strong. It combines various utilities for the programming community.
-
+**EnigmaVerse:** Um assistente para Discord com conexão a um banco de dados chamado "ACode", é um projeto desenvolvido no início de 2021 e está em pleno andamento. Ele combina várias utilidades para a comunidade de programação.
