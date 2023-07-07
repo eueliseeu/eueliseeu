@@ -13,10 +13,10 @@ Um assistente para Discord com conexão a um banco de dados chamado "ACode", é 
 
 <h5 align="left">Contatos:</h5>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/eueliseeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/eueliseeu" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eueliseeu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eueliseeu/" height="20" width="30" /></a>
-<a href="https://stackoverflow.com/users/https://pt.stackoverflow.com/users/309957/eliseu-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://pt.stackoverflow.com/users/309957/eliseu-silva" height="20" width="30" /></a>
-<a href="https://instagram.com/https://www.instagram.com/eueliseeu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eueliseeu/" height="20" width="30" /></a>
+<a href="https://twitter.com/eueliseeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eueliseeu" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/eueliseeu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eueliseeu/" height="20" width="30" /></a>
+<a href="https://pt.stackoverflow.com/users/309957/eliseu-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eliseu-silva" height="20" width="30" /></a>
+<a href="https://instagram.com/eueliseeu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/eueliseeu/" height="20" width="30" /></a>
 </p>
 
 <h5 align="left">Conhecimento:</h5>
