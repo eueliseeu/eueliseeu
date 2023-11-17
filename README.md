@@ -6,8 +6,8 @@
 
 Tenho conhecimento em várias linguagens de programação, como Java (JS), Python (PY) e JavaScript (JS). Também tenho proficiência nas ferramentas da Microsoft (MS) e experiência com as ferramentas da Adobe (AD).
 
-#### **Projeto atual: Profile.me**
-Criando um Portifólio para apresentação melhor dos meus projetos, trabalhos e habilidades. 
+#### **Projeto atual: CodeBuddy**
+ 
 
 <h5 align="left">Contatos:</h5>
 <p align="left">
