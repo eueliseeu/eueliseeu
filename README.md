@@ -1,7 +1,6 @@
 ## Olá, sou Eliseu 🚀
 
 - Desenvolvedor Full-Stack
-- Atualmente sou Gerente de Projetos.
 - Possuo formação em Tecnologia da Informação.
 
 Tenho conhecimento em várias linguagens de programação, como Java (JS), Python (PY) e JavaScript (JS). Também tenho proficiência nas ferramentas da Microsoft (MS) e experiência com as ferramentas da Adobe (AD).
