@@ -3,6 +3,9 @@
 
 # Hello Developers, I'm Eliseu 👋
 
+<img src="./eueliseeu.jpg" alt="chubby programmer" width="auto"/>
+
+
 Sou programador, formado em Análise e Desenvolvimento de Sistemas pela UniFasipe (UF) e atualmente cursando Bacharelado em Engenharia de Software na UniBH (UB). Sou simplesmente um amante da tecnologia e dos conceitos de algoritmos e programo algumas coisinhas.
 
 I'm a programmer, graduated in Systems Analysis and Development from UniFasipe (UF) and currently pursuing a Bachelor's degree in Software Engineering at UniBH (UB). I'm simply a technology enthusiast and a lover of algorithm concepts, and I code a few things here and there.
