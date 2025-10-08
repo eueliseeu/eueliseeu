@@ -27,13 +27,13 @@ Atualmente atuo como Programador Full Stack. Segue um resumo profissional das mi
 
 <br/>
 <p align="left">
-  <a href="mailto:eueliseeu@gmail.com" title="Email">
+  <a href="mailto:eueliseeu@gmail.com" title="Email" style="margin-right:16px;">
     <img src="svg/mail.svg" alt="Email" width="24" style="vertical-align:middle;" />
   </a>
-  <a href="https://www.linkedin.com/in/eueliseeu" title="LinkedIn" target="_blank" rel="noopener noreferrer" style="margin-left:12px;">
-    <img src="svg/linkedin.svg" alt="LinkedIn" width="24" style="vertical-align:middle; " />
+  <a href="https://www.linkedin.com/in/eueliseeu" title="LinkedIn" target="_blank" rel="noopener noreferrer" style="margin-right:16px;">
+    <img src="svg/linkedin.svg" alt="LinkedIn" width="24" style="vertical-align:middle;" />
   </a>
-  <a href="https://www.instagram.com/eueliseeu" title="Instagram" target="_blank" rel="noopener noreferrer" style="margin-left:12px;">
-    <img src="svg/instagram.svg" alt="Instagram" width="24" style="vertical-align:middle; " />
+  <a href="https://www.instagram.com/eueliseeu" title="Instagram" target="_blank" rel="noopener noreferrer">
+    <img src="svg/instagram.svg" alt="Instagram" width="24" style="vertical-align:middle;" />
   </a>
 </p>
