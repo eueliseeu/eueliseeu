@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Sou **desenvolvedor** apaixonado por tecnologia, com formação em **Sistemas de Informação** pela UniFasipe (UF). Atualmente, estou cursando **Engenharia de Software** na UniBH (UB).
+Sou **desenvolvedor** apaixonado por tecnologia, com formação em **Analista de Sistemas** pela UniFasipe (UF). Atualmente, estou cursando **Engenharia de Software** na UniBH (UB).
 
 Tenho como objetivo transformar ideias em código, buscando constantemente novos desafios e aprendizados no universo da programação.
 
