@@ -26,7 +26,7 @@ Atualmente atuo como Programador Full Stack. Segue um resumo profissional das mi
 > — Harold Abelson
 
 <br/>
-<p align="center">
+<p align="left">
   <a href="mailto:eueliseeu@gmail.com" title="Email">
     <img src="svg/mail.svg" alt="Email" width="24" />
   </a>&nbsp;&nbsp;&nbsp;
