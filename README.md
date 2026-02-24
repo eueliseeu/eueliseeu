@@ -4,9 +4,7 @@
 
 ## Sobre mim
 
-Sou **desenvolvedor** apaixonado por tecnologia, com formação em **Analista de Sistemas** pela UniFasipe (UF). Atualmente, estou cursando **Engenharia de Software** na UniBH (UB).
-
-Tenho como objetivo transformar ideias em código, buscando constantemente novos desafios e aprendizados no universo da programação.
+Sou **desenvolvedor Full Stack** migrando para o universo **Mobile**. Atualmente, estou cursando **Engenharia de Software** na UniBH (UB) e me especializando em **Desenvolvimento Android Nativo (Kotlin)**, com foco em arquiteturas modernas e alta performance.
 
 ## Conhecimentos
 
@@ -19,6 +17,7 @@ Atualmente atuo como Programador Full Stack. Segue um resumo profissional das mi
 - Bancos de dados: PostgreSQL, MySQL, MariaDB.
 - Ferramentas e produtividade: Adobe Creative Suite (Photoshop, Illustrator), Figma, Microsoft Office (Word, Excel, PowerPoint), controle de versão com Git.
 - Metodologias: desenvolvimento ágil, revisão de código e integração contínua.
+
 
 <br>
 
