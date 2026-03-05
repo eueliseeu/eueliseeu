@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="my/my.jpg" alt="eu" width="200" style="width: 100%;" />
+  <img src="my/me.jpg" alt="eu" width="200" style="width: 100%;" />
 </div>
 
 ## Sobre mim
