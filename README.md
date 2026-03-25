@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="my/me.jpg" alt="eu" width="200" style="width: 100%;" />
-</div>
+</div> -->
 
 ## Sobre mim
 
